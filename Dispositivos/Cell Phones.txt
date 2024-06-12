@@ -1,0 +1,11 @@
+Brand and Model, Screen, Processor, RAM, Storage, Main Camera, Front Camera, Battery, Price(USD)
+iPhone 13 Pro, 6.1" Super Retina XDR, Apple A15 Bionic, 6 GB, 128 GB, 12 MP + 12 MP + 12 MP, 12 MP, 3095 mAh, 999
+Samsung Galaxy S21, 6.2" Dynamic AMOLED 2X, Exynos 2100 / Snapdragon 888, 8 GB, 128 GB, 64 MP + 12 MP + 12 MP, 10 MP, 4000 mAh, 799
+Google Pixel 6, 6.4" AMOLED, Google Tensor, 8 GB, 128 GB, 50 MP + 12 MP, 8 MP, 4614 mAh, 599
+OnePlus 9, 6.55" Fluid AMOLED, Snapdragon 888, 8 GB, 128 GB, 48 MP + 50 MP + 2 MP, 16 MP, 4500 mAh, 729
+Xiaomi Mi 11, 6.81" AMOLED, Snapdragon 888, 8 GB, 128 GB, 108 MP + 13 MP + 5 MP, 20 MP, 4600 mAh, 749
+Sony Xperia 1 III, 6.5" OLED, Snapdragon 888, 12 GB, 256 GB, 12 MP + 12 MP + 12 MP, 8 MP, 4500 mAh, 1299
+Huawei P50 Pro, 6.6" OLED, Snapdragon 888, 8 GB, 256 GB, 50 MP + 64 MP + 13 MP, 13 MP, 4360 mAh, 1199
+Oppo Find X3 Pro, 6.7" AMOLED, Snapdragon 888, 12 GB, 256 GB, 50 MP + 50 MP + 13 MP, 32 MP, 4500 mAh, 1149
+Motorola Edge 20 Pro, 6.7" OLED, Snapdragon 870, 12 GB, 256 GB, 108 MP + 16 MP + 8 MP, 32 MP, 4500 mAh, 699
+Asus ROG Phone 5, 6.78" AMOLED, Snapdragon 888, 16 GB, 256 GB, 64 MP + 13 MP + 5 MP, 24 MP, 6000 mAh, 999

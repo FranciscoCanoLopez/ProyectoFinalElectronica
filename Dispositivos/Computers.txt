@@ -1,0 +1,11 @@
+Brand and Model, Screen, Processor, RAM, Storage, Graphics, Operating System,, Price (USD)
+MacBook Pro M1, 13.3" Retina, Apple M1, 8 GB, 256 GB SSD, Apple M1, macOS,, 1299
+Dell XPS 13, 13.4" FHD+, Intel i7-1185G7, 16 GB, 512 GB SSD, Intel Iris Xe, Windows 10,, 1199
+HP Spectre x360, 14" FHD, Intel i7-1165G7, 16 GB, 512 GB SSD, Intel Iris Xe, Windows 10,, 1249
+Lenovo ThinkPad X1 Carbon, 14" FHD, Intel i7-1165G7, 16 GB, 512 GB SSD, Intel Iris Xe, Windows 10,,1349
+Microsoft Surface Laptop 4, 13.5" PixelSense, AMD Ryzen 5 4680U, 8 GB, 256 GB SSD, Integrated AMD Radeon, Windows 10,, 999
+ASUS ROG Zephyrus G14, 14" FHD, AMD Ryzen 9 5900HS, 16 GB, 1 TB SSD, NVIDIA RTX 3060, Windows 10,, 1499
+Acer Swift 3, 14" FHD, AMD Ryzen 7 4700U, 8 GB, 512 GB SSD, Integrated AMD Radeon, Windows 10,, 699
+Razer Blade 15, 15.6" FHD, Intel i7-10750H, 16 GB, 512 GB SSD, NVIDIA GTX 1660 Ti, Windows 10,, 1599
+MSI GS66 Stealth, 15.6" FHD, Intel i7-10875H, 16 GB, 1 TB SSD, NVIDIA RTX 2070 Super, Windows 10,, 1799
+Lenovo Yoga 9i, 14" FHD, Intel i7-1185G7, 16 GB, 1 TB SSD, Intel Iris Xe, Windows 10,, 1399

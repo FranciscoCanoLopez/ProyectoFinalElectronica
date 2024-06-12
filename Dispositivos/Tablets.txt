@@ -1,0 +1,11 @@
+Brand and Model, Screen, Processor, RAM, Storage, Main Camera, Front Camera, Battery, Price (USD)
+iPad Pro 12.9" M1, 12.9" Liquid Retina, Apple M1, 8 GB, 128 GB, 12 MP, 12 MP, 9720 mAh, 1099
+Samsung Galaxy Tab S7+, 12.4" Super AMOLED, Snapdragon 865+, 6 GB, 128 GB, 13 MP + 5 MP, 8 MP, 10090 mAh, 849
+Microsoft Surface Pro 7, 12.3" PixelSense, Intel i5-1035G4, 8 GB, 128 GB, 8 MP, 5 MP, 5702 mAh, 749
+Huawei MatePad Pro, 10.8" IPS LCD, Kirin 990, 6 GB, 128 GB, 13 MP, 8 MP, 7250 mAh, 649
+Lenovo Tab P11 Pro, 11.5" OLED, Snapdragon 730G, 6 GB, 128 GB, 13 MP + 5 MP, 8 MP, 8600 mAh, 499
+Amazon Fire HD 10, 10.1" IPS LCD, Mediatek MT8183, 3 GB, 32 GB, 5 MP, 2 MP, 6300 mAh, 149
+Asus ZenPad 3S 10, 9.7" IPS LCD, Mediatek MT8176, 4 GB, 64 GB, 8 MP, 5 MP, 5900 mAh, 299
+Google Pixel Slate, 12.3" Molecular Display, Intel m3-8100Y, 8 GB, 64 GB, 8 MP, 8 MP, 48 Wh, 799
+Sony Xperia Z4 Tablet, 10.1" IPS LCD, Snapdragon 810, 3 GB, 32 GB, 8.1 MP, 5.1 MP, 6000 mAh, 599
+Xiaomi Mi Pad 5, 11" IPS LCD, Snapdragon 860, 6 GB, 128 GB, 13 MP, 8 MP, 8720 mAh, 399
